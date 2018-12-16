@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="my test table" max_length="40" name="x_58872_needit_my_test_table" type="collection">
+        <element label="% complete" max_length="40" name="complete" type="percent_complete"/>
+    </element>
+</database>
